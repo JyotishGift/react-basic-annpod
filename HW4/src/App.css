@@ -1,0 +1,12 @@
+.App {
+	min-height: 100vh;
+	min-width: 768px;
+	display: grid;
+	grid-template-rows: 1fr 12fr auto;
+}
+.App-logo {
+  height: 80px;
+}
+.container {
+	padding: 1rem 2rem;
+}
